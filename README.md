@@ -11,16 +11,23 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 ## Datos
 
-1- Descargue los datos del proyecto que vienen de la competicion kaggle [Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/data "Predict CO2 Emissions in Rwanda")
+1-Inicia sesión en tu cuenta de Kaggle en https://www.kaggle.com/
 
-2-Une los datos a tu google drive copiando los archivos descargados a la unidad principal, sin cambiar los nombres ni crear carpetas adicionales.
+2-Ve a tu perfil haciendo clic en tu foto de perfil en la esquina superior derecha y selecciona "Account" (Cuenta).
 
-3-Ejecute el codigo y permite que Colab acceda a tu Drive.
+![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Imagen%201.png)
 
-![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Captura%20de%20pantalla%202023-10-20%20173322.png)
+3-En la página de tu cuenta, desplázate hacia abajo hasta la sección "API" y verás un botón que dice "Create New API Token". Haz clic en este botón.
+
+4-Se descargará un archivo llamado "kaggle.json" a tu computadora.
+
+5-Este archivo "kaggle.json" contiene las credenciales necesarias para autenticarte en Kaggle y utilizar la API.
+
+6-Ingresa los datos “username” y “key” del archivo cuando te lo pida el siguiente código
+
+![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Imagen%202.png)
 
 ## Videos
 
-[VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=wJHdxGnQU10 "VIDEO 1")
-
+[VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=skcQYpVwnt8 "VIDEO 1")
 
