@@ -17,6 +17,8 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 3-Ejecute el codigo y permite que Colab acceda a tu Drive.
 
+![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Captura%20de%20pantalla%202023-10-20%20173322.png)
+
 ## Videos
 
 [VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=wJHdxGnQU10 "VIDEO 1")
