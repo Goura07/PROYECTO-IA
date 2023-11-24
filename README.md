@@ -30,4 +30,5 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 ## Videos
 
 [VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=skcQYpVwnt8 "VIDEO 1")
+[VIDEO SEGUNDA ENTREGA]([https://www.youtube.com/watch?v=skcQYpVwnt8](https://www.youtube.com/watch?v=yqC2k5I3YVU&ab_channel=DIEGOANDRESRODRIGUEZGALEANO)https://www.youtube.com/watch?v=yqC2k5I3YVU&ab_channel=DIEGOANDRESRODRIGUEZGALEANO "VIDEO 2")
 
